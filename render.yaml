@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: hello-flask
+    name: generate-ics
     env: python
     plan: free
     buildCommand: ""
